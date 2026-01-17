@@ -2,7 +2,7 @@
 
 # ׅ 𝑵 𝒆 𝒙 𝒚 ✦ ࣪
 
-˚₊‧꒰ა ᴅᴇᴠᴇʟᴏᴘᴇʀ & ᴄʀᴇᴀᴛᴏʀᴀ ໒꒱ ‧₊˚
+˚₊‧꒰ა ᴅᴇᴠᴇʟᴏᴘᴇʀ ໒꒱ ‧₊˚
 
 <img src="https://avatars.githubusercontent.com/u/249682299?v=4" alt="Nexy" width="200" style="border-radius: 50%; border: 3px solid #e0c3fc;">
 
@@ -10,7 +10,7 @@
 
 ## ˚₊‧꒰ა ᴀᴄᴇʀᴄᴀ ᴅᴇ ᴍí ໒꒱ ‧₊˚
 
-**ᴇʟ ᴄóᴅɪɢᴏ ᴇs ᴍɪ ᴘᴀsᴀᴛɪᴇᴍᴘᴏ ʏ ᴘᴀsɪóɴ**
+**ᴍɪ ᴘᴀsᴀᴛɪᴇᴍᴘᴏ**
 ```
 
 ✦ desarrolladora por hobby
