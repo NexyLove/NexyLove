@@ -93,9 +93,8 @@
 
 ```
 
-## ˚₊‧꒰ა ᴄᴏɴᴇxɪóɴ ໒꒱ ‧₊˚
-
-**ɢɪᴛʜᴜʙ:** [NexyLove](https://github.com/NexyLove)  
+**ɢɪᴛʜᴜʙ:** [NexyLove](https://github.com/NexyLove)<br>
+**ᴡʜᴀᴛsᴀᴘᴘ:** [Nexy](https://wa.link/r1abhh)<br>
 **ᴘʀᴏʏᴇᴄᴛᴏ:** [Delta-WaBot](https://github.com/NexyLove/Delta-WaBot)
 
 **ᴘᴜᴇᴅᴇs ᴄᴏɴᴛᴀᴄᴛᴀʀᴍᴇ ᴘᴀʀᴀ:**
